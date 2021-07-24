@@ -23,7 +23,7 @@
 
 | Reading file   |      LINK                                                               |  
 |----------      |:-----------------------------------------------------------------------:|
-| Read Class 01        |  [HTML structure](https://duaa-tarazi.github.io/readingnotes201/read01) | 
+| Read Class 01        |  [Componant](https://duaa-tarazi.github.io/readingnotes201/class%2001) | 
 | Read Calss 02        |[]()       |   
 | Read Class 03        |[]()       |   
 | Read Class 04        |[]()       |
