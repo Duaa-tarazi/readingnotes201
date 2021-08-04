@@ -23,7 +23,6 @@ A component can have three different views − object-oriented view, conventiona
 
 - Increased reliability with the reuse of the existing components.
 
-
 ## What is props short for?
 
 React is a component-based library which divides the UI into little reusable pieces. In some cases, those components need to communicate (send data to each other) and the way to pass data between components is by using props.
