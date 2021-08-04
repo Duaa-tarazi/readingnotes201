@@ -6,7 +6,6 @@
 
 In React, transforming arrays into lists of elements is nearly identical.
 
-
 ### If I want to loop through an array and display each value in JSX, how do I do that in React?
 
  we loop through the numbers array using the JavaScript map() function. We return a ``` <li> ``` element for each item. Finally, we assign the resulting array of elements to listItems:
